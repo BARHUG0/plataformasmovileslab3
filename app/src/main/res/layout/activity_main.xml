@@ -192,7 +192,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="90sp"
                 android:layout_weight="1"
-                android:text="sqrt"
+                android:text="√"
                 android:backgroundTint="@color/buttonText"
                 android:textColor="@color/background"
                 android:textSize="24sp" />
@@ -265,7 +265,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="3dp"
         android:layout_marginBottom="15dp"
-        android:text="TextView"
+        android:text=""
         android:textSize="36sp"
         app:layout_constraintBottom_toTopOf="@+id/textView_restult"
         app:layout_constraintEnd_toEndOf="parent" />
@@ -276,7 +276,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="3dp"
         android:layout_marginBottom="15dp"
-        android:text="TextView"
+        android:text=""
         android:textSize="48sp"
         app:layout_constraintBottom_toTopOf="@+id/button_delete"
         app:layout_constraintEnd_toEndOf="parent" />
